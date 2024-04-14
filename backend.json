@@ -10,7 +10,11 @@
         "id": 2,
         "image": "",
         "title": "How to send Data to Google Sheets using React",
-        "content": "In this article, you will learn how to send data to Google Sheets using React.",
+        "content": [
+            "In this article, you will learn how to send data to Google Sheets using React 1.",
+            "In this article, you will learn how to send data to Google Sheets using React 2.",
+            "In this article, you will learn how to send data to Google Sheets using React 3.",
+        ],
         "description": "Learn how to send data to Google Sheets using React in this step-by-step tutorial."
     }
 ]
